@@ -1,10 +1,5 @@
-# node-app
 
-See the tutorial for more details about this app.
-
-https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker
-
-![alt text](src/images/print.png "Galaxias")
+![alt text](print.png "Galaxias")
 
 ## Build and run
 
